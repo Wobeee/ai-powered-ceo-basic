@@ -1,64 +1,56 @@
 # Strategia
 
-<!--
-Jak uzupełnić ten plik:
-- Odpal /_improve i odpowiadaj na pytania AI swoimi słowami
-- Albo wklej surowe materiały (pitch deck, notatki, prezentacje) — AI wyciągnie kontekst
-- Nie musisz wypełniać wszystkiego naraz — buduj iteracyjnie
--->
+> **Zakres tego kontekstu:** dział Europa, na razie skupiony na Irlandii (bo tu mieszkam). Polska to główny rynek firmy, ale prowadzi go inny dział — nie wchodzi w te pliki.
 
 ---
 
 ## Misja
 
-<!-- Jaki problem rozwiązujesz? Dla kogo? Dlaczego akurat Ty/Twoja firma? -->
+Sprzedajemy bezszwowe, tekstylne tapety ścienne na rynek irlandzki — głównie do hoteli, biur i restauracji. Rozwiązujemy problem brzydkich, odklejających się łączeń i długich remontów: nasze role są tak szerokie, że ścianę kładzie się jednym kawałkiem, szybko i bez paraliżowania działalności klienta.
 
 ## Wizja
 
-<!-- Gdzie chcesz być za 3-5 lat? Jak wygląda sukces? -->
+<!-- Do uzupełnienia — gdzie chcemy być z działem Europa za 3-5 lat. -->
 
 ## Rynek
 
-<!--
-- W jakiej branży działasz?
-- Jak duży jest Twój rynek (ile firm/osób ma ten problem)?
-- Jak szybko rośnie / kurczy się?
-- Jakie są główne trendy, które Ci sprzyjają lub zagrażają?
--->
+- **Geografia:** Irlandia (główny fokus operacyjny). Docelowo: Europa.
+- **Segment:** B2B — hospitality (hotele, restauracje), biura.
+- **Model:** wyłączny importer na rynek irlandzki — nie producent, nie dystrybutor.
+
+<!-- Do uzupełnienia: wielkość rynku, dynamika, trendy. -->
 
 ## Klient docelowy
 
-<!--
-- Kto jest Twoim idealnym klientem? (rozmiar firmy, branża, rola decydenta)
-- Jaki ma problem, który rozwiązujesz?
-- Jak dziś radzi sobie bez Ciebie?
-- Co go boli najbardziej?
-- Co go przekonuje do zakupu?
--->
+- Hotele, biura, restauracje na rynku irlandzkim.
+- **Co go boli:** brzydkie łączenia standardowych tapet, krótka żywotność, długie remonty zatrzymujące działalność, wymogi p.poż w obiektach komercyjnych.
+- **Co go przekonuje:** szybki montaż = mniej downtime, bezszwowy efekt, akustyka, certyfikacja p.poż.
+
+<!-- Do uzupełnienia: rozmiar firmy, rola decydenta, jak dziś radzą sobie bez nas. -->
 
 ## Przewagi konkurencyjne
 
-<!--
-- Co robisz lepiej niż konkurencja?
-- Co jest trudne do skopiowania?
-- Dlaczego klienci wybierają Ciebie, a nie alternatywę?
--->
+- **Wyłączność** — jako jedyni importujemy ten produkt na rynek irlandzki.
+- **Know-how montażu** — szerokie role wymagają specyficznej technologii kładzenia, którą znamy.
+- **Relacje B2B** — dotarcie do segmentu hospitality / biur.
+
+**Cechy produktu (od dostawcy, nie nasza zasługa, ale nasz argument sprzedażowy):**
+- Bezszwowy montaż (bardzo szerokie role)
+- Szybki montaż = minimalny downtime u klienta
+- Wygłuszanie akustyczne (tekstylna struktura)
+- Trudnopalność — spełnia wymogi p.poż w obiektach komercyjnych
 
 ## Konkurencja
 
-<!--
-- Kto jest Twoim głównym konkurentem? (bezpośredni i pośredni)
-- Czym się od nich różnisz?
-- Co robią lepiej od Ciebie?
--->
+<!-- Do uzupełnienia — kto sprzedaje tapety / okładziny ścienne hotelom i biurom w Irlandii. -->
 
 ## Pozycjonowanie
 
-<!--
-- Jak chcesz być postrzegany na rynku?
-- Jedno zdanie, którym opisujesz firmę obcemu człowiekowi
-- Czym NIE jesteś? (anty-pozycjonowanie)
--->
+**Mid-market z lepszą jakością.** Nie premium, nie najtańsi. Lepsza jakość niż standardowe tapety, w cenie rozsądnej dla biznesu.
+
+Jednozdaniowy opis: "Bezszwowe tapety tekstylne dla biznesu — szybki montaż, lepsza akustyka, bezpieczeństwo p.poż."
+
+**Czym NIE jesteśmy:** producentem, salonem dla klienta indywidualnego, najtańszą opcją na rynku, marką luksusową.
 
 ## Kierunek strategiczny
 
