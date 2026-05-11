@@ -1,6 +1,6 @@
 # Strategia
 
-> **Zakres tego kontekstu:** dział Europa, na razie skupiony na Irlandii (bo tu mieszkam). Polska to główny rynek firmy, ale prowadzi go inny dział — nie wchodzi w te pliki.
+> **Zakres tego kontekstu:** dział Europa. **Obecnie** operacyjnie: Irlandia (bo tu mieszkam). **Docelowo** dział obejmuje też Polskę (dziś prowadzona przez inny dział firmy — przejmiemy), Estonię, możliwie Holandię.
 
 ---
 
@@ -10,11 +10,16 @@ Sprzedajemy bezszwowe, tekstylne tapety ścienne na rynek irlandzki — główni
 
 ## Wizja
 
-<!-- Do uzupełnienia — gdzie chcemy być z działem Europa za 3-5 lat. -->
+Horyzont: ~3 lata.
+
+- **Skala:** jedna nowa realizacja miesięcznie (~12 rocznie).
+- **Pozycja:** domyślny wybór dla nowych hoteli w Polsce, Irlandii i Estonii.
+- **Geografia:** Polska, Irlandia, Estonia. Holandia jako opcja.
+- **Rola CEO:** mój udział operacyjny coraz mniejszy. Celem jest dział, który kręci się sam.
 
 ## Rynek
 
-- **Geografia:** Irlandia (główny fokus operacyjny). Docelowo: Europa.
+- **Geografia:** obecnie Irlandia (główny fokus operacyjny). Docelowo: Polska, Irlandia, Estonia, możliwie Holandia.
 - **Segment:** B2B — hospitality (hotele, restauracje), biura.
 - **Model:** wyłączny importer na rynek irlandzki — nie producent, nie dystrybutor.
 
