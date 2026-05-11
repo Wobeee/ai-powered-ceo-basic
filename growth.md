@@ -11,11 +11,12 @@ Jak uzupełnić ten plik:
 
 ## Pozycjonowanie marki
 
-<!--
-- Jak komunikujesz firmę na zewnątrz?
-- Jaki jest tone of voice? (ekspercki, przyjacielski, bezpośredni, premium)
-- Jaka jest główna obietnica dla klienta?
--->
+**Główna obietnica:** "Bezszwowe tapety tekstylne dla biznesu — szybki montaż, lepsza akustyka, bezpieczeństwo p.poż." (patrz `strategy.md`).
+
+**Tone of voice:**
+- **Przyjacielski, bezpośredni** — nie korpo, nie "Szanowni Państwo". Swój gość, który zna się na rzeczy.
+- **Język:** angielski (rynek IE).
+- **Perspektywa:** firmowa ("we", "our"), nie osobista ("I", "my").
 
 ## Kanały
 
