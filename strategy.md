@@ -92,12 +92,13 @@ Jednozdaniowy opis: "Bezszwowe tapety tekstylne dla biznesu — szybki montaż, 
 1. **Rozpoznawalność marki w Irlandii** — budujemy obecność, nie ścigamy się o przychód.
 2. **Łapanie kontaktów / budowa pipeline** — relacje, nie zamykanie dealów na siłę.
 3. **Kanały marketingowe:** Instagram, LinkedIn, partnerstwa z architektami.
+   - Architekci — bez cold maila (testowane, nie działa). Kierunek: PR/media branżowe, case studies. Wymaga decyzji (patrz `open-loops.md`).
 
 ### Czego świadomie NIE robimy w 2026
 
 - **Nie zatrudniamy** — jestem one man army.
 - **Nie budujemy ekipy montażowej w IE** — magazyn i logistyka są w Polsce, ogarnięte.
-- **Nie ekspandujemy aktywnie** na PL, EE, NL (utrzymujemy relację z AVDS, ale bez pchania tematu).
+- **Nie ekspandujemy aktywnie** na PL, EE, NL (relację z AVDS prowadzimy z pełnym zaangażowaniem jak każdego klienta, ale nie skalujemy ekspansji w EE).
 - **Nie rozszerzamy oferty produktowej** — to nie mój dział, tylko przekazuję info o nowościach dalej.
 
 ### Ograniczenia, o których AI musi pamiętać
