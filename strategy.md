@@ -60,13 +60,25 @@ Jednozdaniowy opis: "Bezszwowe tapety tekstylne dla biznesu — szybki montaż, 
 
 ## Kierunek strategiczny
 
-**Najbliższy rok: 100% fokus na Irlandię.**
+**Najbliższy rok: 100% fokus na Irlandię. Rok budowania, nie skalowania.**
 
-- Polska, Estonia, Holandia — w wizji 3-letniej, ale **nieaktywne operacyjnie** w tym roku.
-- Nie odrywać uwagi nowymi rynkami, dopóki Irlandia nie stoi mocno.
-- AVDS / Estonia — utrzymujemy relację, ale nie ekspandujemy aktywnie.
+### Priorytety 2026
 
-<!-- Do uzupełnienia: konkretne priorytety operacyjne na ten rok w IE (np. liczba realizacji, kanały, zatrudnienia). -->
+1. **Rozpoznawalność marki w Irlandii** — budujemy obecność, nie ścigamy się o przychód.
+2. **Łapanie kontaktów / budowa pipeline** — relacje, nie zamykanie dealów na siłę.
+3. **Kanały marketingowe:** Instagram, LinkedIn, partnerstwa z architektami.
+
+### Czego świadomie NIE robimy w 2026
+
+- **Nie zatrudniamy** — jestem one man army.
+- **Nie budujemy ekipy montażowej w IE** — magazyn i logistyka są w Polsce, ogarnięte.
+- **Nie ekspandujemy aktywnie** na PL, EE, NL (utrzymujemy relację z AVDS, ale bez pchania tematu).
+- **Nie rozszerzamy oferty produktowej** — to nie mój dział, tylko przekazuję info o nowościach dalej.
+
+### Ograniczenia, o których AI musi pamiętać
+
+- **CEO = one man army** — mój czas jest krytycznym ograniczeniem.
+- **Produkt poza moją kontrolą** — ofertę rozszerza inny dział / dostawca, ja jestem kanałem informacyjnym.
 
 ## Kierunek strategiczny
 
