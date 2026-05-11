@@ -21,6 +21,7 @@ Horyzont: ~3 lata.
 ## Rynek
 
 - **Geografia:** obecnie Irlandia (główny fokus operacyjny). Docelowo: Polska, Irlandia, Estonia, możliwie Holandia.
+- **Stan rynku IE:** hotele w Irlandii są zaniedbane i przestarzałe — duża nisza odnowieniowa.
 - **Segment:** B2B — hospitality (hotele, restauracje), biura.
 - **Model:** wyłączny importer na rynek irlandzki — nie producent, nie dystrybutor.
 
@@ -41,14 +42,36 @@ Horyzont: ~3 lata.
 - **Relacje B2B** — dotarcie do segmentu hospitality / biur.
 
 **Cechy produktu (od dostawcy, nie nasza zasługa, ale nasz argument sprzedażowy):**
-- Bezszwowy montaż (bardzo szerokie role)
-- Szybki montaż = minimalny downtime u klienta
-- Wygłuszanie akustyczne (tekstylna struktura)
-- Trudnopalność — spełnia wymogi p.poż w obiektach komercyjnych
+- **Bezszwowy montaż** — rolka do 3 m wysokości i do 100 m długości. Pokrywa prawie każdą ścianę w jednym kawałku.
+- **Konkurencja:** w Europie standard to maks. ~130 cm szerokości, montaż zawsze pionowymi paskami z łączeniami.
+- Szybki montaż = minimalny downtime u klienta.
+- Wygłuszanie akustyczne (tekstylna struktura).
+- Trudnopalność — spełnia wymogi p.poż w obiektach komercyjnych.
 
 ## Konkurencja
 
-<!-- Do uzupełnienia — kto sprzedaje tapety / okładziny ścienne hotelom i biurom w Irlandii. -->
+### Bezpośrednia — inne tapety materiałowe
+
+- Spora konkurencja na rynku europejskim.
+- Ale **nikt nie oferuje rozwiązania bez łączeń** — standard to role do ~130 cm, montaż pionowymi paskami.
+- Nasza unikalna pozycja: jedyny dostępny bezszwowy produkt na rynku irlandzkim.
+
+### Pośrednia — alternatywne pokrycia ścian
+
+- Farba (dekoracyjna i zwykła).
+- Tradycyjne tapety papierowe / winylowe.
+- Inne ozdoby ścienne (panele, boazeria itp.).
+- **Problem informacyjny:** klient nie wie, że tapety mogą być najłatwiejsze w montażu — wybiera farbę z przyzwyczajenia.
+
+### Konkurencja kategoryjna — percepcja
+
+Największy konkurent to **mit, że tapety są ciężkie w układaniu i problematyczne**. Walka nie jest tylko z innymi firmami, ale z całą kategorią. Nasz produkt ten mit obala — ale musimy ten przekaz dowieźć.
+
+### "Status quo" — robimy nic
+
+- Duży udział rynku.
+- Hotele w IE zaniedbane i przestarzałe — wielu właścicieli po prostu nie inwestuje w odnowienie.
+- Z jednej strony: bariera (trudno przekonać do wydatku). Z drugiej: ogromna nisza, gdy wreszcie się decydują.
 
 ## Pozycjonowanie
 
