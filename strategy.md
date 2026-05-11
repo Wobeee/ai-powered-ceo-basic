@@ -16,6 +16,7 @@ Horyzont: ~3 lata.
 - **Pozycja:** domyślny wybór dla nowych hoteli w Polsce, Irlandii i Estonii.
 - **Geografia:** Polska, Irlandia, Estonia. Holandia jako opcja.
 - **Rola CEO:** mój udział operacyjny coraz mniejszy. Celem jest dział, który kręci się sam.
+- **Estonia — punkt zaczepienia:** mamy już współpracę z **AVDS** (duża firma w EE). To baza pod ekspansję, nie startujemy od zera.
 
 ## Rynek
 
@@ -56,6 +57,16 @@ Horyzont: ~3 lata.
 Jednozdaniowy opis: "Bezszwowe tapety tekstylne dla biznesu — szybki montaż, lepsza akustyka, bezpieczeństwo p.poż."
 
 **Czym NIE jesteśmy:** producentem, salonem dla klienta indywidualnego, najtańszą opcją na rynku, marką luksusową.
+
+## Kierunek strategiczny
+
+**Najbliższy rok: 100% fokus na Irlandię.**
+
+- Polska, Estonia, Holandia — w wizji 3-letniej, ale **nieaktywne operacyjnie** w tym roku.
+- Nie odrywać uwagi nowymi rynkami, dopóki Irlandia nie stoi mocno.
+- AVDS / Estonia — utrzymujemy relację, ale nie ekspandujemy aktywnie.
+
+<!-- Do uzupełnienia: konkretne priorytety operacyjne na ten rok w IE (np. liczba realizacji, kanały, zatrudnienia). -->
 
 ## Kierunek strategiczny
 
