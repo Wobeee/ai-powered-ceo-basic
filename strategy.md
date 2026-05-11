@@ -85,6 +85,8 @@ Jednozdaniowy opis: "Bezszwowe tapety tekstylne dla biznesu — szybki montaż, 
 
 **Najbliższy rok: 100% fokus na Irlandię. Rok budowania, nie skalowania.**
 
+> **Kontekst — okno czasowe:** za rok przeprowadzka do Polski. Ten rok to jedyne okno, żeby budować kontakty osobiście, "na miejscu". Po przeprowadzce — zarządzanie zdalne (co operacyjnie OK, ale relacje robi się trudniej z dystansu).
+
 ### Priorytety 2026
 
 1. **Rozpoznawalność marki w Irlandii** — budujemy obecność, nie ścigamy się o przychód.
@@ -103,18 +105,26 @@ Jednozdaniowy opis: "Bezszwowe tapety tekstylne dla biznesu — szybki montaż, 
 - **CEO = one man army** — mój czas jest krytycznym ograniczeniem.
 - **Produkt poza moją kontrolą** — ofertę rozszerza inny dział / dostawca, ja jestem kanałem informacyjnym.
 
-## Kierunek strategiczny
-
-<!--
-- Jakie są Twoje 3-5 najważniejszych priorytetów na najbliższe 6-12 miesięcy?
-- Od czego świadomie rezygnujesz? (co NIE jest priorytetem)
-- Jakie decyzje strategiczne podjąłeś ostatnio i dlaczego?
--->
-
 ## Ryzyka strategiczne
 
-<!--
-- Co może pójść nie tak?
-- Jakie scenariusze Cię niepokoją?
-- Co jest Twoim największym ograniczeniem (czas, pieniądze, ludzie, technologia)?
--->
+### Komercyjne — niski
+
+Brak dramy. "Trzeba próbować i być cierpliwym." Pipeline budujemy z czasem. Sztab ryzyka tu jest niski, ale **kluczowy zegar = okno czasowe** (rok do przeprowadzki, patrz Kierunek strategiczny).
+
+### Operacyjne — niski
+
+- Mam ludzi na zastępstwo. Zbieram zamówienia → przekazuję do działu w PL → wysyłka i reszta dzieje się sama.
+- Jak mnie nie ma 2 tygodnie — zamówienia trafiają do innej osoby.
+- One man army nie jest tu wąskim gardłem operacyjnym.
+
+### Dostawca — niski
+
+Mamy wyłączność. Bezpieczna pozycja.
+
+### Osobiste / wizerunkowe — średni, otwarty temat
+
+- Jestem tatuatorem, 33 lata, tatuaże, dosyć streetowy styl.
+- Marketing zza komputera, treści, kampanie — OK, czuję się w tym dobrze.
+- **Spotkania biznesowe to problem** — nie ze strachu, ale ze świadomości, że moja aparycja nie pasuje do świata "wielkich biznesmenów i przedsiębiorstw".
+- Implikacja: trzeba zaprojektować strategię budowania relacji w IE z uwzględnieniem tego — albo grać w to (kanały async, kontent, polecenia), albo świadomie rozwiązać kwestię prezentacji na spotkaniach.
+- **Status:** do przemyślenia. Otwarte.
